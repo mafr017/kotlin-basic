@@ -8,5 +8,5 @@ fun main() {
     print(d)
     print(i)
     println(t)
-    println("$a$d$i$t")
+    println("$a$d$i$t...")
 }
