@@ -1,12 +1,14 @@
 # Belajar Dasar Kotlin (Fundamental)
 * Break Continue
-  Do While Loops
+* Do While Loops
 * For Loops
 * Function Argument
 * Hello World
 * If Expression
 * Operasi Matematika
 * Operasi Perbandingan
+* Return Function
+* Single Expression Function
 * Tipe Data
 * Tipe Data Array
 * Tipe Data Boolean
