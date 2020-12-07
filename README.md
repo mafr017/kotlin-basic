@@ -1,5 +1,8 @@
 # Belajar Dasar Kotlin (Fundamental)
+* Break Continue
+  Do While Loops
 * For Loops
+* Function Argument
 * Hello World
 * If Expression
 * Operasi Matematika
@@ -12,3 +15,4 @@
 * Tipe Data String
 * Variable
 * When Expression
+* While Loops
