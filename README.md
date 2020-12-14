@@ -1,15 +1,21 @@
 # Belajar Dasar Kotlin (Fundamental)
+* Anonymous Function
 * Break Continue
+* Closures
 * Do While Loops
 * Extension Function
 * For Loops
 * Function Argument
 * Hello World
+* Higher-Order Function
 * If Expression
 * Infix Notation
+* Inline Function & Noinline Parameter
+* Label
 * Lambda Expression
 * Operasi Matematika
 * Operasi Perbandingan
+* Package & Import
 * Recursive Function
 * Return Function
 * Return If & When
