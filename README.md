@@ -31,3 +31,5 @@
 * Variable
 * When Expression
 * While Loops
+
+Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
